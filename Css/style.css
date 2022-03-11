@@ -45,3 +45,31 @@ html{
     text-align: center;
     margin: 27px;
 }
+/* services section */
+#services .container-fluid{
+    background-image: url("/assets/backgrounds/s_image.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 44vh;
+   
+    background-size: cover;
+
+}
+.service p{
+    color: #fff;
+    font-size: 9px;
+    text-align: center;
+}
+.service h1{
+    text-align: center;
+    color: #fff;
+    font-size: 19px;
+    font-weight: 500;
+}
+.service{
+    position: relative;
+    top: 8%;
+    
+
+}
