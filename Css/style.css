@@ -16,8 +16,17 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
+    
 }
 .hero{
     text-align: center;
     color: #fff;
+    
+}
+.ero div{
+    margin: 20px;
+}
+.mouse{
+    margin: 100px;
 }
