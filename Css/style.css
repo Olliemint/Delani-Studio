@@ -9,7 +9,8 @@
 }
 html{
     scroll-behavior: smooth;
-}
+} 
+/* hero section */
 #main .container-fluid{
     background-image: url("/assets/backgrounds/h_img.jpg");
     background-size: cover;
@@ -29,4 +30,18 @@ html{
 }
 .mouse{
     margin: 100px;
+}
+/* about us section */
+
+.us p{
+    font-size: 10px;
+}
+.us h1{
+    font-size: 18px;
+    text-transform: uppercase;
+    
+}
+.us{
+    text-align: center;
+    margin: 27px;
 }
