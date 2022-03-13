@@ -73,3 +73,39 @@ html{
     
 
 }
+/* what we do section */
+
+/* portfolio section */
+#portfolio .col img{
+    height: 150px;
+    width: 150px;
+    
+    
+}
+/* contact us */
+#contact .container-fluid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("/assets/backgrounds/c_image.jpg");
+    background-size: cover;
+}
+.inputs{
+    display: flex;
+    gap: 3%;
+}
+.inputs input{
+    background: transparent;
+    height: 20px;
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+textarea {
+    width: 107%;
+    height: 150px;
+    background: transparent;
+    border: 1px solid #fff;
+    align-items: center;
+  }
+
