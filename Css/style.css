@@ -23,13 +23,23 @@ html{
 .hero{
     text-align: center;
     color: #fff;
+    margin-top: 88px;
+    
     
 }
+.hero h1{
+  font-size: 25px;
+}
+.hero p{
+  font-size: 10px;
+  font-weight: 700;
+}
 .ero div{
-    margin: 20px;
+    margin: 15px;
 }
 .mouse{
-    margin: 100px;
+  margin-top: 120px;
+    
 }
 /* about us section */
 
@@ -74,18 +84,49 @@ html{
 
 }
 /* what we do section */
+.what-we-do{
+  
+  text-align: center;
+  padding-top: 40px;
 
+}
+.what-we-do .headings{
+  padding-bottom: 20px;
+  font-size: 18px;
+}
+#design, #development, #product{
+  display: none;
+  
+}
+#wedo p{
+  font-size: 10px;
+
+}
+.title{
+  font-size: 12px;
+}
 /* portfolio section */
-#portfolio .col img{
-    height: 150px;
-    width: 150px;
-    
-    
+#portfolio{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-left:18%;
+  margin-right: 16%; 
+}
+.col-md-3 img{
+  max-width: 100%;
+  max-height: 100%;
+}
+.portfolio h2{
+  text-align: center;
+  padding-top:40px;
+  font-size: 18px;
+  
 }
 /* contact us */
 
 .contact{
-    background-image: url('https://raw.githubusercontent.com/Mercywairimu01/Delani-studio/main/images/car_image.jpg');
+    background-image: url("/assets/backgrounds/c_image.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -99,6 +140,7 @@ html{
   .contact h3{
     text-align: center;
     padding-top: 40px;
+    font-size: 18px;
   }
   .contact .detail{
    margin-top: 10px;
@@ -132,6 +174,7 @@ html{
   }
   .detail::-webkit-input-placeholder {
     color: white;
+    
   }
   /* social links */
   #sociol .container-fluid{
