@@ -108,4 +108,19 @@ textarea {
     border: 1px solid #fff;
     align-items: center;
   }
-
+  /* social links */
+  #sociol .container-fluid{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+.links li{
+    display: inline-block;
+    padding: 5px;
+}
+.copyright{
+    text-align: center;
+}
+.links{
+    margin-top: 20px;
+}
