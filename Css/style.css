@@ -83,30 +83,55 @@ html{
     
 }
 /* contact us */
-#contact .container-fluid{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-image: url("/assets/backgrounds/c_image.jpg");
-    background-size: cover;
-}
-.inputs{
-    display: flex;
-    gap: 3%;
-}
-.inputs input{
-    background: transparent;
-    height: 20px;
-    border: 1px solid #fff;
-    color: #fff;
-}
 
-textarea {
-    width: 107%;
-    height: 150px;
-    background: transparent;
-    border: 1px solid #fff;
-    align-items: center;
+.contact{
+    background-image: url('https://raw.githubusercontent.com/Mercywairimu01/Delani-studio/main/images/car_image.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+  }
+  .contact h3{
+    text-align: center;
+    padding-top: 40px;
+  }
+  .contact .detail{
+   margin-top: 10px;
+  }
+  #name{
+    color: white;
+    border: 1px solid white;
+    background-color: transparent;
+    width: 30%;
+  }
+  #email{
+    width: 30%;
+    color: white;
+    border: 1px solid white;
+    background-color: transparent;
+    margin-left: 30px;
+  }
+  #message{
+    background-color: transparent;
+    border: 1px solid white;
+    height: 210px;
+    width: 70%;
+    margin-top: 20px;
+  }
+  #btn{
+    background-color:white;
+    border: 1px solid white;
+    width: 90px;
+    margin: 15px;
+    text-align: center;
+  }
+  .detail::-webkit-input-placeholder {
+    color: white;
   }
   /* social links */
   #sociol .container-fluid{
