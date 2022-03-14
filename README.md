@@ -15,7 +15,7 @@
 <p>This is a website for a small tech company that gives the information about the company's services and what they do in the landing page,introduces the company and also allows the user to check projects and services</p>
 
 ## Installation
-<p>Click the following link()
+<p>Click the following link(https://olliemint.github.io/Delani-Studio/)
   
 ## Requirements
 * Devices such as tablet , phones , laptops and desktop computers.
