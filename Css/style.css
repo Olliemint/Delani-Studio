@@ -167,28 +167,44 @@ font-size: 20px;
     color: white;
     border: 1px solid white;
     background-color: transparent;
-    width: 30%;
+    width: 25%;
+    height: 20px;
   }
   #email{
-    width: 30%;
+    width: 25%;
     color: white;
     border: 1px solid white;
     background-color: transparent;
     margin-left: 30px;
+    height: 20px;
   }
   #message{
     background-color: transparent;
     border: 1px solid white;
-    height: 210px;
-    width: 70%;
+    height: 150px;
+    width: 50%;
     margin-top: 20px;
   }
   #btn{
-    background-color:white;
-    border: 1px solid white;
-    width: 90px;
-    margin: 15px;
-    text-align: center;
+    background-color: green;
+    color: #fff;
+    height: 33px;
+    border-radius: 5px;
+   
+    margin: 10px;
+   
+  }
+  #btn:hover{
+    background-color: rgb(32, 38, 41);
+    color: aqua;
+  }
+  #clear{
+    background-color: crimson;
+    color: #fff;
+  }
+  #clear:hover{
+    background-color: #fff;
+    color: crimson;
   }
   .detail::-webkit-input-placeholder {
     color: white;
@@ -209,4 +225,7 @@ font-size: 20px;
 }
 .links{
     margin-top: 20px;
+}
+.card{
+  border: 1px solid #fff;
 }
