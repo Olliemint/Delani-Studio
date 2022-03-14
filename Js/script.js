@@ -35,3 +35,21 @@ $(document).ready(function() {
     
 
   });
+
+
+  $(document).ready(function(){
+    $("#work1").hover(function(){
+        $(this).fadeTo("slow",0.6)
+        $("#overlay").show();},
+        function(){
+            $(this).fadeTo("slow", 1)
+            $("#overlay").hide();
+    });
+    $("#work2").hover(function(){
+        $(this).fadeTo("slow",0.6)
+        $(".text2").show();},
+        function(){
+            $(this).fadeTo("slow", 1)
+            $(".text2").hide();
+    });
+  });
