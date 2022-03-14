@@ -1,6 +1,6 @@
 # Delani-Studio
 ### A website for a small tech company
-<img width="1440" alt="landing" src="">
+<img width="1440" alt="landing" src="https://raw.githubusercontent.com/Olliemint/Delani-Studio/main/assets/landing.png">
 
 ## Table of Content
 + [Description](#description)
