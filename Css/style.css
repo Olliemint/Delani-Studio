@@ -12,7 +12,7 @@ html{
 } 
 /* hero section */
 #main .container-fluid{
-    background-image: url("/assets/backgrounds/h_img.jpg");
+    background-image: url("https://raw.githubusercontent.com/Olliemint/Delani-Studio/main/assets/backgrounds/h_img.jpg");
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -144,7 +144,7 @@ font-size: 20px;
 /* contact us */
 
 .contact{
-    background-image: url("/assets/backgrounds/c_image.jpg");
+    background-image: url("https://raw.githubusercontent.com/Olliemint/Delani-Studio/main/assets/backgrounds/c_image.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
