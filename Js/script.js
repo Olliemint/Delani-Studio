@@ -96,4 +96,12 @@ $(document).ready(function() {
             $(".text8").hide();
     });
   });
-  
+//   alert pop
+
+  let form = document.getElementById("mc-embedded-subscribe-form");
+
+  form.addEventListener("submit", (e) =>{
+      e.preventDefault
+      let name = document.getElementById("name").value;
+      alert( `${name} we have received your message. Thank you for reaching out to us.`);
+  });
