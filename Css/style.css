@@ -128,13 +128,14 @@ html{
 #overlay{
   position: absolute;
   /* background-color: rgba(116, 100, 100, 0.4); */
-  color: blue;
+  color: crimson;
   display: none;
   font-weight: 900;
   
+  
  
  
-font-size: 15px;
+font-size: 20px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
