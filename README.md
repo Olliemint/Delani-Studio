@@ -1,4 +1,5 @@
 # Delani-Studio
+# By Oliver Maiyo
 ### A website for a small tech company
 <img width="1440" alt="landing" src="https://raw.githubusercontent.com/Olliemint/Delani-Studio/main/assets/landing.png">
 
@@ -15,7 +16,7 @@
 <p>This is a website for a small tech company that gives the information about the company's services and what they do in the landing page,introduces the company and also allows the user to check projects and services</p>
 
 ## Installation
-<p>Click the following link(https://olliemint.github.io/Delani-Studio/)
+<p>Click the following thislink https://olliemint.github.io/Delani-Studio/</p>
   
 ## Requirements
 * Devices such as tablet , phones , laptops and desktop computers.
@@ -24,7 +25,8 @@
 ### Installation Process
 * Clone the github repo
 * Open the clone in a texteditor and host it on your browser
-[Go Back to the top](#By-Oliver Kipkoech)
+* 
+[Go Back to the top](#By Oliver Maiyo)
   
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
@@ -42,7 +44,8 @@
   
 ## Known Bugs
 Manipulating MailChip API innerHtml
-[Go Back to the top](#By-Oliver Kipkoech)
+
+[Go Back to the top](#By Oliver Maiyo)
   
 ## Licence
 MIT License
@@ -62,9 +65,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-[Go Back to the top](#By-Oliver Kipkoech)
+
+[Go Back to the top](#By Oliver Maiyo)
   
 ## Authors Info
 Can be reached by the email below for questions and comments
-Email - oliverkoechrj@@gmail.com
-[Go Back to the top](#By-Oliver Kipkoech)
+Email - oliverkoechrj@gmail.com
+
+[Go Back to the top](#By Oliver Maiyo)
